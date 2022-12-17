@@ -8,4 +8,4 @@
 
 include<stdio.h>
 Printf("Created for merging purpose");
-
+scanf("%d%d",&a,&b);
